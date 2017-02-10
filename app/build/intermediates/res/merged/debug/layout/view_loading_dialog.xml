@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/loading_dialog"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@android:color/transparent"
+    android:gravity="center">
+
+    <RelativeLayout
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/loading_dialog_bg">
+
+        <ProgressBar
+            style="?android:attr/progressBarStyleSmall"
+            android:layout_width="25dip"
+            android:layout_height="30dip"
+            android:layout_centerInParent="true"
+            android:indeterminateDrawable="@drawable/loading_dialog_anim" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/apple/Documents/ASWorkSpace/CustomLoadingDialog/app/build/intermediates/res/merged/debug/drawable/loading_dialog_anim.xml",
+        "source": "/Users/apple/Documents/ASWorkSpace/CustomLoadingDialog/app/src/main/res/drawable/loading_dialog_anim.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/ASWorkSpace/CustomLoadingDialog/app/build/intermediates/res/merged/debug/drawable/loading_dialog_bg.xml",
+        "source": "/Users/apple/Documents/ASWorkSpace/CustomLoadingDialog/app/src/main/res/drawable/loading_dialog_bg.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/apple/Documents/ASWorkSpace/CustomLoadingDialog/app/build/intermediates/res/merged/debug/mipmap-hdpi/icon_loading.png",
+        "source": "/Users/apple/Documents/ASWorkSpace/CustomLoadingDialog/app/src/main/res/mipmap-hdpi/icon_loading.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/ASWorkSpace/CustomLoadingDialog/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/apple/Documents/ASWorkSpace/CustomLoadingDialog/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

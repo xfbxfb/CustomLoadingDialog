@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/ASWorkSpace/CustomLoadingDialog/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="faa6dedda57c9d8ac54c60b7f6c9a67752d86142">
+        <dex dex="/Users/apple/Documents/ASWorkSpace/CustomLoadingDialog/app/build/intermediates/pre-dexed/debug/instant-run_ffa76dff2f896a3ee2d055b0eb937ba8b7d37eb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/ASWorkSpace/CustomLoadingDialog/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8d6961a6215914552e36d54b3d598063264a0351">
+        <dex dex="/Users/apple/Documents/ASWorkSpace/CustomLoadingDialog/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_73f5c130ec7732178956f905e0502d4f1183e347.jar" />
+    </item>
+
+</items>
